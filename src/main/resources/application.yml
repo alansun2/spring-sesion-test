@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: redistest.ehoo100.com
+    password: ehu100
+    database: 4
+  session:
+    store-type: redis
